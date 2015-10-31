@@ -1,0 +1,24 @@
+{
+  "name": "virtuallybooked-test",
+  "version": "1.0.0",
+  "description": "Test for Street View",
+  "main": "vb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Maps-API"
+  ],
+  "author": "Andres Carter",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.1.0"
+  }
+}
